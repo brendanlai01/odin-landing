@@ -1,6 +1,7 @@
 body{
     background-color: #1F2937;
     font-family: 'Roboto', sans-serif;
+    margin: 6rem;
 }
 
 .header{
@@ -19,8 +20,8 @@ body{
     font-weight: bolder;
 }
 
-.section-one h3{
-    font-size: 24px;
+.section-one p{
+    font-size: 24px;    
     color: #F9FAF8;
     font-weight:normal;
 }
