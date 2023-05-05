@@ -24,3 +24,12 @@ body{
     color: #F9FAF8;
     font-weight:normal;
 }
+
+button{
+    font-weight: bold;
+    color: #F9FAF8;
+    background-color: #3882f6;
+    border-radius: 8px;
+    width: 5rem;
+    padding: 4px;
+}
