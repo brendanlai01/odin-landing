@@ -51,9 +51,11 @@ a{
 
 button{
     font-weight: bold;
+    font-size: 18px;
     color: #F9FAF8;
     background-color: #3882f6;
     border-radius: 8px;
-    width: 5rem;
-    padding: 4px;
+    border: none;
+    width: 8rem;
+    padding: 8px;
 }
