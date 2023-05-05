@@ -60,6 +60,10 @@ body{
     display: flex;
     background-color: white;
     margin: 0;
+    justify-content: center;
+    gap: 3rem;
+    text-align: center;
+    color:#1F2937;
 }
 
 .section-two img{
