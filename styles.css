@@ -1,7 +1,7 @@
 body{
     background-color: #1F2937;
     font-family: 'Roboto', sans-serif;
-    margin: 6rem;
+    margin: 1rem;
     color: #F9FAF8;
 }
 
@@ -9,6 +9,9 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 4rem;
+    margin-right: 4rem;
+    margin-left: 4rem;
 }
 
 .section-one{
@@ -38,6 +41,12 @@ body{
 
 .section-one img{
     border-radius: 1rem;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+    padding: 1rem;
 }
 
 button{
