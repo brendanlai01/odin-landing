@@ -8,3 +8,19 @@ body{
     justify-content: space-evenly;
     align-items: center;
 }
+
+.section-one{
+    display: flex;
+}
+
+.section-one h2{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+}
+
+.section-one h3{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight:normal;
+}
