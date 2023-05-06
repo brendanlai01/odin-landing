@@ -130,6 +130,12 @@ body{
     border-width: 2px;
 }
 
+.footer{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
 
 a{
     text-decoration: none;
