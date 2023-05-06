@@ -152,5 +152,6 @@ button{
     border: none;
     width: 8rem;
     padding: 8px;
+    flex-shrink: 0;
 }
 
