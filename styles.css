@@ -74,6 +74,31 @@ body{
     height: 200px;
 }
 
+.section-three{
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    align-items: center;
+    padding: 2rem;
+    flex: 1;
+}
+
+.three-text{
+    display: flex;
+    flex-direction: column;
+    margin: 7rem;
+    margin-bottom: 3rem;
+    font-weight: lighter;
+}
+
+.three-text p{
+    align-self: flex-end;
+    font-weight: bold;
+}
+
+
 a{
     text-decoration: none;
     color: inherit;
