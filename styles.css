@@ -98,6 +98,36 @@ body{
     font-weight: bold;
 }
 
+.section-four{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 4rem;
+}
+
+.four-text{
+    display: flex;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 2rem;
+    border-radius: 8px;
+    gap: 24rem;
+}
+
+.four-text p{
+    font-weight: normal;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 0;
+    margin: 0;
+}
+
+.four-text button{
+    border-style:solid; 
+    border-color: white;
+    border-width: 2px;
+}
+
 
 a{
     text-decoration: none;
